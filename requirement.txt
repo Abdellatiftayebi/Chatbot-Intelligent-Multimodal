@@ -1,0 +1,6 @@
+openai-whisper
+soundfile
+PyPDF2
+llama_index
+sentence-transformers torch
+rank_bm25
