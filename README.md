@@ -61,7 +61,7 @@ Une fois connecté dans pgAdmin:
        - Port: 5432
        - Maintenance database: chatbotdb_2025 (le nom de ta base)
        - Username: admin (Ou postgres si tu préfères)
-       - Password: docuBot111
+       - Password: password
     4. Clique sur Save.
 
 ### 6️⃣ Initialiser la base de données
